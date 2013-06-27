@@ -19,4 +19,5 @@ PRODUCT_COPY_FILES += \
         vendor/htc/m7wlj/proprietary/bin/qcks:/system/bin/qcks \
         vendor/htc/m7wlj/proprietary/vendor/firmware/mfg.bin:/system/vendor/firmware/mfg.bin \
         vendor/htc/m7wlj/proprietary/lib/libril-qc-qmi-1.so:/system/lib/libril-qc-qmi-1.so \
-        vendor/htc/m7wlj/proprietary/lib/libril-qcril-hook-oem.so:/system/lib/libril-qcril-hook-oem.so
+        vendor/htc/m7wlj/proprietary/lib/libril-qcril-hook-oem.so:/system/lib/libril-qcril-hook-oem.so \
+	vendor/htc/m7wlj/proprietary/lib/hw/sensors.m7wlj.so:/system/lib/hw/sensors.m7wlj.so
