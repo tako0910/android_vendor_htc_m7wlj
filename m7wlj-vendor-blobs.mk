@@ -28,4 +28,10 @@ PRODUCT_COPY_FILES += \
 	vendor/htc/m7wlj/proprietary/lib/libnm325.so:/system/lib/libnm325.so \
 	vendor/htc/m7wlj/proprietary/bin/jellyservice:/system/bin/jellyservice \
 	vendor/htc/m7wlj/proprietary/bin/mtvmfservice:/system/bin/mtvmfservice \
-	vendor/htc/m7wlj/proprietary/bin/mtvmfrecservice:/system/bin/mtvmfrecservice
+	vendor/htc/m7wlj/proprietary/bin/mtvmfrecservice:/system/bin/mtvmfrecservice \
+	vendor/htc/m7wlj/proprietary/bin/felica_agent:/system/bin/felica_agent \
+	vendor/htc/m7wlj/proprietary/bin/felica_daemon:/system/bin/felica_daemon \
+	vendor/htc/m7wlj/proprietary/bin/felica_startup:/system/bin/felica_startup \
+	vendor/htc/m7wlj/proprietary/etc/felica/common.cfg:/system/etc/felica/common.cfg \
+	vendor/htc/m7wlj/proprietary/etc/felica/mfm.cfg:/system/etc/felica/mfm.cfg \
+	vendor/htc/m7wlj/proprietary/etc/felica/mfs.cfg:/system/etc/felica/mfs.cfg
