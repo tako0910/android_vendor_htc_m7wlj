@@ -39,4 +39,5 @@ PRODUCT_COPY_FILES += \
         vendor/htc/m7wlj/proprietary/app/MobileFeliCaClient.apk:/system/app/MobileFeliCaClient.apk \
         vendor/htc/m7wlj/proprietary/app/MobileFeliCaMenuApp.apk:/system/app/MobileFeliCaMenuApp.apk \
         vendor/htc/m7wlj/proprietary/app/MobileFeliCaSettingApp.apk:/system/app/MobileFeliCaSettingApp.apk \
-        vendor/htc/m7wlj/proprietary/app/MobileFeliCaWebPluginBoot.apk:/system/app/MobileFeliCaWebPluginBoot.apk
+        vendor/htc/m7wlj/proprietary/app/MobileFeliCaWebPluginBoot.apk:/system/app/MobileFeliCaWebPluginBoot.apk \
+	vendor/htc/m7wlj/proprietary/app/GMobileTV.apk:/system/app/GMobileTV.apk
