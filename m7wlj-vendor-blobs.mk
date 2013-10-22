@@ -20,7 +20,7 @@ PRODUCT_COPY_FILES += \
         vendor/htc/m7wlj/proprietary/vendor/firmware/mfg.bin:/system/vendor/firmware/mfg.bin \
         vendor/htc/m7wlj/proprietary/lib/libril-qc-qmi-1.so:/system/lib/libril-qc-qmi-1.so \
         vendor/htc/m7wlj/proprietary/lib/libril-qcril-hook-oem.so:/system/lib/libril-qcril-hook-oem.so \
-	vendor/htc/m7wlj/proprietary/lib/hw/sensors.m7wlj.so:/system/lib/hw/sensors.m7wlj.so \
+	vendor/htc/m7wlj/proprietary/lib/hw/sensors.default.so:/system/lib/hw/sensors.default.so \
 	vendor/htc/m7wlj/proprietary/lib/libBMLSupports.so:/system/lib/libBMLSupperts.so \
 	vendor/htc/m7wlj/proprietary/lib/libCdAbLayer.so:/system/lib/libCdAbLayer.so \
 	vendor/htc/m7wlj/proprietary/lib/libJellyPG.so:/system/lib/libJellyPG.so \
