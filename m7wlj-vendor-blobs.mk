@@ -17,7 +17,23 @@
 PRODUCT_COPY_FILES += \
         vendor/htc/m7wlj/proprietary/bin/efsks:/system/bin/efsks \
         vendor/htc/m7wlj/proprietary/bin/qcks:/system/bin/qcks \
-        vendor/htc/m7wlj/proprietary/vendor/firmware/mfg.bin:/system/vendor/firmware/mfg.bin \
+        vendor/htc/m7wlj/proprietary/bin/netmgrd:/system/bin/netmgrd \
+        vendor/htc/m7wlj/proprietary/bin/qmuxd:/system/bin/qmuxd \
+        vendor/htc/m7wlj/proprietary/lib/libdiag.so:/system/lib/libdiag.so \
+        vendor/htc/m7wlj/proprietary/lib/libdsi_netctrl.so:/system/lib/libdsi_netctrl.so \
+        vendor/htc/m7wlj/proprietary/lib/libdsutils.so:/system/lib/libdsutils.so \
+        vendor/htc/m7wlj/proprietary/lib/libidl.so:/system/lib/libidl.so \
+        vendor/htc/m7wlj/proprietary/lib/libqcci_legacy.so:/system/lib/libqcci_legacy.so \
+        vendor/htc/m7wlj/proprietary/lib/libqdi.so:/system/lib/libqdi.so \
+        vendor/htc/m7wlj/proprietary/lib/libqdp.so:/system/lib/libqdp.so \
+        vendor/htc/m7wlj/proprietary/lib/libqmi.so:/system/lib/libqmi.so \
+        vendor/htc/m7wlj/proprietary/lib/libqmi_cci.so:/system/lib/libqmi_cci.so \
+        vendor/htc/m7wlj/proprietary/lib/libqmi_client_qmux.so:/system/lib/libqmi_client_qmux.so \
+        vendor/htc/m7wlj/proprietary/lib/libqmi_common_so.so:/system/lib/libqmi_common_so.so \
+        vendor/htc/m7wlj/proprietary/lib/libqmi_csi.so:/system/lib/libqmi_csi.so \
+        vendor/htc/m7wlj/proprietary/lib/libqmi_encdec.so:/system/lib/libqmi_encdec.so \
+        vendor/htc/m7wlj/proprietary/lib/libqmiservices.so:/system/lib/libqmiservices.so \
+        vendor/htc/m7wlj/proprietary/lib/libnetmgr.so:/system/lib/libnetmgr.so \
         vendor/htc/m7wlj/proprietary/lib/libril-qc-qmi-1.so:/system/lib/libril-qc-qmi-1.so \
         vendor/htc/m7wlj/proprietary/lib/libril-qcril-hook-oem.so:/system/lib/libril-qcril-hook-oem.so \
 	vendor/htc/m7wlj/proprietary/lib/hw/sensors.default.so:/system/lib/hw/sensors.default.so \
