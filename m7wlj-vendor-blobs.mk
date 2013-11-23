@@ -37,14 +37,6 @@ PRODUCT_COPY_FILES += \
         vendor/htc/m7wlj/proprietary/lib/libril-qc-qmi-1.so:/system/lib/libril-qc-qmi-1.so \
         vendor/htc/m7wlj/proprietary/lib/libril-qcril-hook-oem.so:/system/lib/libril-qcril-hook-oem.so \
 	vendor/htc/m7wlj/proprietary/lib/hw/sensors.default.so:/system/lib/hw/sensors.default.so \
-	vendor/htc/m7wlj/proprietary/lib/libBMLSupports.so:/system/lib/libBMLSupperts.so \
-	vendor/htc/m7wlj/proprietary/lib/libCdAbLayer.so:/system/lib/libCdAbLayer.so \
-	vendor/htc/m7wlj/proprietary/lib/libJellyPG.so:/system/lib/libJellyPG.so \
-	vendor/htc/m7wlj/proprietary/lib/libMTVMFCls.so:/system/lib/libMTVMFCls.so \
-	vendor/htc/m7wlj/proprietary/lib/libnm325.so:/system/lib/libnm325.so \
-	vendor/htc/m7wlj/proprietary/bin/jellyservice:/system/bin/jellyservice \
-	vendor/htc/m7wlj/proprietary/bin/mtvmfservice:/system/bin/mtvmfservice \
-	vendor/htc/m7wlj/proprietary/bin/mtvmfrecservice:/system/bin/mtvmfrecservice \
 	vendor/htc/m7wlj/proprietary/bin/felica_agent:/system/bin/felica_agent \
 	vendor/htc/m7wlj/proprietary/bin/felica_daemon:/system/bin/felica_daemon \
 	vendor/htc/m7wlj/proprietary/bin/felica_startup:/system/bin/felica_startup \
@@ -55,5 +47,4 @@ PRODUCT_COPY_FILES += \
         vendor/htc/m7wlj/proprietary/app/MobileFeliCaClient.apk:/system/app/MobileFeliCaClient.apk \
         vendor/htc/m7wlj/proprietary/app/MobileFeliCaMenuApp.apk:/system/app/MobileFeliCaMenuApp.apk \
         vendor/htc/m7wlj/proprietary/app/MobileFeliCaSettingApp.apk:/system/app/MobileFeliCaSettingApp.apk \
-        vendor/htc/m7wlj/proprietary/app/MobileFeliCaWebPluginBoot.apk:/system/app/MobileFeliCaWebPluginBoot.apk \
-	vendor/htc/m7wlj/proprietary/app/GMobileTV.apk:/system/app/GMobileTV.apk
+        vendor/htc/m7wlj/proprietary/app/MobileFeliCaWebPluginBoot.apk:/system/app/MobileFeliCaWebPluginBoot.apk
